@@ -77,7 +77,4 @@
     <Content Include="icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <ItemGroup>
-    <PackageReference Include="NETStandard.Library" Version="2.1.0.0" />
-  </ItemGroup>
 </Project>
